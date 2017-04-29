@@ -23,9 +23,9 @@ public class Principal extends AppCompatActivity {
         }catch (SQLiteException e){
             e.printStackTrace();
         }
-        sqlconnect.execSQL("insert into tblDatos(nombre, apellido) values ('Hector','Rodriguez')");
-        sqlconnect.execSQL("insert into tblDatos(nombre, apellido) values ('jhon','snow')");
-        sqlconnect.execSQL("insert into tblDatos(nombre, apellido) values ('jaime',':Lanninster')");
+        sqlconnect.execSQL("insert into tblDatos(nombre, apellido) values ('Alejandro','Salazar')");
+        sqlconnect.execSQL("insert into tblDatos(nombre, apellido) values ('Jose','Castro')");
+        sqlconnect.execSQL("insert into tblDatos(nombre, apellido) values ('Fernando','Venzor')");
 
         txtDatos= (TextView)findViewById(R.id.txtDatos);
 

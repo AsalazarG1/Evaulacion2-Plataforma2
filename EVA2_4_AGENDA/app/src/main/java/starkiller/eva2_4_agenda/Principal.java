@@ -37,24 +37,24 @@ public class Principal extends AppCompatActivity {
         }
         ///try {
             //Insertar valores
-           // sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Hector','111-1111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Benjamin','222-1111');");
-           // sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Javier','333-1111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Ivan','444-1111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Daniel','555-1111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Rogelio','666-1111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Edgar','777-1111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Jorjais','888-1111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('angie','999-1111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Javier','123-111');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Francisco','123-222');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('jaime','123-333');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Alejandro','123-444');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Oswaldo','123-555');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('ratata','123-666');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Abuelo','123-777');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Arabe','123-888');");
-            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Crush','123-999');");
+           // sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Alejandro','111-1111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Salazar','222-1111');");
+           // sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Jose','333-1111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Angelica','444-1111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Eduardo','555-1111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Ruben','666-1111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Mabel','777-1111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Majo','888-1111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Javier','999-1111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Alan','123-111');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Pedro','123-222');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Kevin','123-333');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Lesly','123-444');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Vicky','123-555');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Edgar','123-666');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Rogelio','123-777');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Carlos','123-888');");
+            //sqldbConnect.execSQL("INSERT INTO tblContactos(nombre,telefono) VALUES ('Fanny','123-999');");
         //} catch (SQLiteException e) {
          //   e.printStackTrace();
        // }
